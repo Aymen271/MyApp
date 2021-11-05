@@ -7,7 +7,7 @@ pipeline {
       stage ('Install NodeJS') {
           steps {
 		script{
-		    sh "npm install 14.15"
+		    sh "nvm install 14.15"
                }
             }
         }
