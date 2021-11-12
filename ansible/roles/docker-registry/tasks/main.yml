@@ -11,3 +11,4 @@
     repository: aymendocker271/devops
     tag: end
     push: yes
+    source: local
